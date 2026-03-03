@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Utkarsh Anand 👋
 
-<!--
-**uanandast/uanandast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation & Reporting Analyst with 6+ years of experience building data-driven systems.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build algorithmic trading automation systems
+- Develop real-time monitoring dashboards using Flask
+- Apply quantitative logic & disciplined risk management
+- Explore ML applications in financial systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python • SQL • Flask • Kite Connect API • Power BI • Tableau • Pandas • Scikit-learn
+
+## 📈 Current Focus
+- Trading automation architecture
+- Risk management frameworks
+- ML-powered trade monitoring
+- Quantitative system design
+
+---
+⚠️ All trading projects are for educational purposes only.
