@@ -1,6 +1,6 @@
 # Hi, I'm Utkarsh Anand 👋
 
-Automation & Reporting Analyst with 6+ years of experience building data-driven systems.
+Automation & Reporting Analyst with 7+ years of experience building data-driven systems.
 
 ## 🚀 What I Do
 - Build algorithmic trading automation systems
