@@ -3,7 +3,7 @@ Automation & Reporting Analyst with 7+ years of experience building data-driven 
  
 ## 🚀 What I Do
 - Build algorithmic trading automation systems
-- Develop real-time monitoring dashboards using Flask
+- Develop real-time monitoring dashboards using FASTAPI
 - Design data pipelines and analytical reporting frameworks
 - Apply quantitative logic & disciplined risk management
 ## 🛠 Tech Stack
